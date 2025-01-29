@@ -1,2 +1,0 @@
-# Anecdotal
-school anecdotal records
